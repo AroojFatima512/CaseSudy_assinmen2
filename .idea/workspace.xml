@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b986b0b-8c13-48bd-8df3-8af48fd663fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamee/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamee/CardDeckGameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamee/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamee/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamee/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamee/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamee/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gamee/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem/LibraryManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheoryAssignment/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheoryAssignment/ATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheoryAssignment/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheoryAssignment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheoryAssignment/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheoryAssignment/StudentManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week01/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/TimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/LabAsg/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/LabAsg/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/LabAsg/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/LabAsg/Lab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/LabAsg/LabStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/LabAsg/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Cinema/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week05/Enumeration/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week05/Enumeration/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week05/Enumeration/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week05/Enumeration/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week05/Enumeration/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week05/Enumeration/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week05/Enumeration/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/Abstract/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/Abstract/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/Abstract/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/Abstract/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/DynamicMethodDispatch/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/DynamicMethodDispatch/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/DynamicMethodDispatch/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/DynamicMethodDispatch/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/DynamicMethodDispatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/Instance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/Instance/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/Instance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/Instance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Exception/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Exception/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Exception/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Exception/CTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Exception/CustomExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Exception/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Exception/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Exception/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week07/Framework/arrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week09/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week09/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2WoAKvnrpYeHOx3BVfN3h9Rxh4w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FA23/OOP/Oop&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/FA23/OOP/Oop/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.CaseStudy.Main">
+    <configuration name="CaseStudy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.Main" />
+      <module name="Oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CaseStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week09.Main" />
+      <module name="Oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week02.ProductTest" />
+      <module name="Oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week07.Framework.arrayList" />
+      <module name="Oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week07.Framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="week03.ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week03.ProductTest" />
+      <module name="Oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CaseStudy.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.arrayList" />
+        <item itemvalue="Application.ProductTest" />
+        <item itemvalue="Application.week03.ProductTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b986b0b-8c13-48bd-8df3-8af48fd663fd" name="Changes" comment="" />
+      <created>1697388500046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697388500046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
